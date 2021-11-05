@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  4 NOV 2021 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  5 NOV 2021 13:26
 entering extended mode
 **"./POWERPOINT PRESENTATION.tex"
 ("POWERPOINT PRESENTATION.tex"
@@ -71,20 +71,20 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 ) ("POWERPOINT PRESENTATION.aux")
 \openout1 = `"POWERPOINT PRESENTATION.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 (C:\Users\SST-LAB\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
@@ -108,11 +108,11 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 7.
+(Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
+(Font)              <6> on input line 9.
 
 
 LaTeX Warning: No \author given.
@@ -120,13 +120,13 @@ LaTeX Warning: No \author given.
 [1
 
 {C:/Users/SST-LAB/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-<js.png, id=7, 211.79124pt x 239.89626pt>
+<js.png, id=7, 229.85875pt x 221.82875pt>
 File: js.png Graphic file (type png)
 <use js.png>
-Package pdftex.def Info: js.png  used on input line 18.
-(pdftex.def)             Requested size: 103.50105pt x 117.23538pt.
+Package pdftex.def Info: js.png  used on input line 22.
+(pdftex.def)             Requested size: 103.50105pt x 99.8863pt.
  [1 <./js.png>]
-Overfull \hbox (11.0423pt too wide) in paragraph at lines 35--36
+Overfull \hbox (11.0423pt too wide) in paragraph at lines 41--42
 []\OT1/cmr/m/n/10 In 2008, the cre-ation of Google's open-source Chrome V8, a h
 igh-performance
  []
@@ -135,68 +135,68 @@ igh-performance
 <brendan.jpg, id=18, 183.68625pt x 276.03125pt>
 File: brendan.jpg Graphic file (type jpg)
 <use brendan.jpg>
-Package pdftex.def Info: brendan.jpg  used on input line 51.
-(pdftex.def)             Requested size: 103.50105pt x 155.53674pt.
+Package pdftex.def Info: brendan.jpg  used on input line 57.
+(pdftex.def)             Requested size: 137.9979pt x 207.38934pt.
  [3 <./brendan.jpg>] [4] [5] [6]
 <html.png, id=33, 225.84375pt x 225.84375pt>
 File: html.png Graphic file (type png)
 <use html.png>
-Package pdftex.def Info: html.png  used on input line 99.
+Package pdftex.def Info: html.png  used on input line 105.
 (pdftex.def)             Requested size: 103.50105pt x 103.50342pt.
  [7 <./html.png>] [8]
 <tim.jpg, id=41, 201.75375pt x 251.94125pt>
 File: tim.jpg Graphic file (type jpg)
 <use tim.jpg>
-Package pdftex.def Info: tim.jpg  used on input line 126.
+Package pdftex.def Info: tim.jpg  used on input line 132.
 (pdftex.def)             Requested size: 103.50105pt x 129.2495pt.
  [9 <./tim.jpg>]
 [10] [11] [12]
-<python.png, id=55, 274.02374pt x 185.69376pt>
-File: python.png Graphic file (type png)
-<use python.png>
-Package pdftex.def Info: python.png  used on input line 174.
-(pdftex.def)             Requested size: 103.50105pt x 70.13933pt.
- [13 <./python.png>] [14]
-<guido.jpg, id=63, 276.03125pt x 183.68625pt>
+<python.jpg, id=55, 285.065pt x 177.66376pt>
+File: python.jpg Graphic file (type jpg)
+<use python.jpg>
+Package pdftex.def Info: python.jpg  used on input line 180.
+(pdftex.def)             Requested size: 276.00105pt x 172.01373pt.
+ [13 <./python.jpg>] [14]
+<guido.jpg, id=62, 276.03125pt x 183.68625pt>
 File: guido.jpg Graphic file (type jpg)
 <use guido.jpg>
-Package pdftex.def Info: guido.jpg  used on input line 203.
+Package pdftex.def Info: guido.jpg  used on input line 209.
 (pdftex.def)             Requested size: 137.9979pt x 91.83447pt.
  [15 <./guido.jpg>] [16] [17] [18]
-<php.png, id=77, 307.1475pt x 165.61874pt>
+<php.png, id=76, 307.1475pt x 165.61874pt>
 File: php.png Graphic file (type png)
 <use php.png>
-Package pdftex.def Info: php.png  used on input line 255.
+Package pdftex.def Info: php.png  used on input line 261.
 (pdftex.def)             Requested size: 103.50105pt x 55.80925pt.
 
 [19 <./php.png>] [20]
-<rasmus.jpg, id=85, 226.8475pt x 223.83624pt>
+<rasmus.jpg, id=84, 226.8475pt x 223.83624pt>
 File: rasmus.jpg Graphic file (type jpg)
 <use rasmus.jpg>
-Package pdftex.def Info: rasmus.jpg  used on input line 287.
+Package pdftex.def Info: rasmus.jpg  used on input line 293.
 (pdftex.def)             Requested size: 137.9979pt x 136.16762pt.
  [21 <./rasmus.jpg>] [22] [23] [24]
-<swift.jpg, id=99, 225.84375pt x 225.84375pt>
+<swift.jpg, id=98, 225.84375pt x 225.84375pt>
 File: swift.jpg Graphic file (type jpg)
 <use swift.jpg>
-Package pdftex.def Info: swift.jpg  used on input line 335.
+Package pdftex.def Info: swift.jpg  used on input line 341.
 (pdftex.def)             Requested size: 103.50105pt x 103.50342pt.
  [25 <./swift.jpg>]
 [26]
-<chris.jpg, id=106, 256.96pt x 197.73875pt>
+<chris.jpg, id=105, 256.96pt x 197.73875pt>
 File: chris.jpg Graphic file (type jpg)
 <use chris.jpg>
-Package pdftex.def Info: chris.jpg  used on input line 363.
+Package pdftex.def Info: chris.jpg  used on input line 369.
 (pdftex.def)             Requested size: 137.9979pt x 106.195pt.
  [27 <./chris.jpg>] [28] [29] [30] ("POWERPOINT PRESENTATION.aux") ) 
 Here is how much of TeX's memory you used:
- 1724 strings out of 479697
- 24817 string characters out of 2866182
- 300119 words of memory out of 3000000
- 18838 multiletter control sequences out of 15000+200000
+ 1726 strings out of 479697
+ 24845 string characters out of 2866182
+ 300168 words of memory out of 3000000
+ 18840 multiletter control sequences out of 15000+200000
  407713 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,72p,490b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,6n,72p,490b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\
 SST-LAB\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:
 /Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
@@ -205,9 +205,9 @@ onts/cm/cmbx12.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmr10.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/SST-LAB/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "POWERPOINT PRESENTATION.pdf" (31 pages, 167823 bytes).
+Output written on "POWERPOINT PRESENTATION.pdf" (31 pages, 165994 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
