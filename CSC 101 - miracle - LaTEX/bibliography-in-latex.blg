@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: using-tables-ex-17-bibliography-in-latex.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+Database file #1: myBib.bib
+Warning--empty booktitle in hall2019opportunity
+Warning--empty booktitle in kuster2020measurement
+Warning--empty year in kuster2020measurement
+You've used 5 entries,
+            1876 wiz_defined-function locations,
+            508 strings with 4517 characters,
+and the built_in function-call counts, 1493 in all, are:
+= -- 135
+> -- 62
+< -- 0
++ -- 23
+- -- 18
+* -- 101
+:= -- 211
+add.period$ -- 4
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 85
+empty$ -- 139
+format.name$ -- 18
+if$ -- 367
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 18
+num.names$ -- 5
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 88
+swap$ -- 37
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 12
+width$ -- 6
+write$ -- 47
+(There were 3 warnings)

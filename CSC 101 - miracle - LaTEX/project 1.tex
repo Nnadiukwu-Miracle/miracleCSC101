@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage[table]{xcolor}
+\usepackage{siunitx}
+\sisetup{round-mode=figures,
+		 round-minimum= 2}
+\usepackage{pgfplotstable}
+
+\begin{document}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{Conversation between five robots}
+			\label{table1}
+			\pgfplotstabletypeset[
+				col sep=comma,
+				display columns/0/.style={
+					column name=$Source$,
+					column type=c, string type}, 
+				display columns/1/.style={
+				column name=$num 1$,
+				column type=c, string type},
+			display columns/2/.style={
+				column name=$num 2$,
+				column type=c, string type},
+			display columns/3/.style={
+				column name=$num 3$,
+				column type=c, string type},
+			display columns/4/.style={
+				column name=$num 4$,
+				column type=c, string type},
+			display columns/5/.style={
+				column name=$num 5$,
+				column type=c, string type},
+			every head row/.style={
+				before row= \toprule,
+				after row= \bottomrule,
+				},
+			every last row/.style={after row=\bottomrule}
+			]{Classification-of-robots.csv}
+		\end{center}
+	\end{table}
+	
+\end{document}
