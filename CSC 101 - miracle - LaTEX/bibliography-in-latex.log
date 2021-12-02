@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.11.12)  17 NOV 2021 13:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.11.12)  18 NOV 2021 16:52
 entering extended mode
-**./using-tables-ex-17-bibliography-in-latex.tex
-(using-tables-ex-17-bibliography-in-latex.tex
+**./bibliography-in-latex.tex
+(bibliography-in-latex.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03>
 (C:\Users\SST-LAB\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -26,8 +26,8 @@ dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count185
 \l__pdf_internal_box=\box47
-) (using-tables-ex-17-bibliography-in-latex.aux)
-\openout1 = `using-tables-ex-17-bibliography-in-latex.aux'.
+) (bibliography-in-latex.aux)
+\openout1 = `bibliography-in-latex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -56,25 +56,23 @@ LaTeX Warning: No \author given.
 [1
 
 {C:/Users/SST-LAB/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-(using-tables-ex-17-bibliography-in-latex.bbl) [2]
-(using-tables-ex-17-bibliography-in-latex.aux) ) 
+(bibliography-in-latex.bbl) [2] (bibliography-in-latex.aux) ) 
 Here is how much of TeX's memory you used:
  425 strings out of 479697
- 8198 string characters out of 2866182
- 275645 words of memory out of 3000000
+ 7932 string characters out of 2866182
+ 275607 words of memory out of 3000000
  17587 multiletter control sequences out of 15000+200000
  407416 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,6n,49p,1409b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/SST-LAB/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/SST-LAB/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/
-SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr17.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmti10.pfb>
-Output written on using-tables-ex-17-bibliography-in-latex.pdf (2 pages, 71448 
-bytes).
+ 43i,6n,49p,1390b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/SST-LAB/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Use
+rs/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr17.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmti10.pfb>
+Output written on bibliography-in-latex.pdf (2 pages, 71492 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  5 NOV 2021 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.11.12)  18 NOV 2021 13:09
 entering extended mode
-**"./POWERPOINT PRESENTATION.tex"
-("POWERPOINT PRESENTATION.tex"
+**"./latex presentation.tex"
+("latex presentation.tex"
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03>
 (C:\Users\SST-LAB\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -68,8 +68,8 @@ dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count185
 \l__pdf_internal_box=\box47
-) ("POWERPOINT PRESENTATION.aux")
-\openout1 = `"POWERPOINT PRESENTATION.aux"'.
+) ("latex presentation.aux")
+\openout1 = `"latex presentation.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -188,24 +188,24 @@ File: chris.jpg Graphic file (type jpg)
 <use chris.jpg>
 Package pdftex.def Info: chris.jpg  used on input line 369.
 (pdftex.def)             Requested size: 137.9979pt x 106.195pt.
- [27 <./chris.jpg>] [28] [29] [30] ("POWERPOINT PRESENTATION.aux") ) 
+ [27 <./chris.jpg>] [28] [29] [30] ("latex presentation.aux") ) 
 Here is how much of TeX's memory you used:
  1726 strings out of 479697
- 24845 string characters out of 2866182
- 300168 words of memory out of 3000000
+ 24790 string characters out of 2866182
+ 300158 words of memory out of 3000000
  18840 multiletter control sequences out of 15000+200000
  407713 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,72p,490b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\
-SST-LAB\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:
-/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
-x10.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/SST-LAB/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "POWERPOINT PRESENTATION.pdf" (31 pages, 165994 bytes).
+ 66i,6n,72p,485b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\SST-L
+AB\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/User
+s/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/SST-LAB/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "latex presentation.pdf" (31 pages, 165949 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

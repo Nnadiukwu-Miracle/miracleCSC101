@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.11.12)  17 NOV 2021 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.11.12)  18 NOV 2021 14:48
 entering extended mode
-**"./using tables ex 8.tex"
-("using tables ex 8.tex"
+**"./coloring a table.tex"
+("coloring a table.tex"
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03>
 (C:\Users\SST-LAB\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -65,8 +65,8 @@ dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count186
 \l__pdf_internal_box=\box49
-) ("using tables ex 8.aux")
-\openout1 = `"using tables ex 8.aux"'.
+) ("coloring a table.aux")
+\openout1 = `"coloring a table.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -110,19 +110,19 @@ Overfull \hbox (36.8182pt too wide) in paragraph at lines 8--22
 [1
 
 {C:/Users/SST-LAB/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-("using tables ex 8.aux") ) 
+("coloring a table.aux") ) 
 Here is how much of TeX's memory you used:
  1447 strings out of 479697
- 20680 string characters out of 2866182
- 298172 words of memory out of 3000000
+ 20669 string characters out of 2866182
+ 298170 words of memory out of 3000000
  18598 multiletter control sequences out of 15000+200000
  403738 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,9n,72p,272b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/SST-LAB/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "using tables ex 8.pdf" (1 page, 32175 bytes).
+ 66i,9n,72p,271b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/SST-LAB/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "coloring a table.pdf" (1 page, 32175 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

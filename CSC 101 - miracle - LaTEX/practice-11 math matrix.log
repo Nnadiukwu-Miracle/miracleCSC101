@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.11.12)  17 NOV 2021 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.11.12)  18 NOV 2021 17:19
 entering extended mode
-**"./practice 11.tex"
-("practice 11.tex"
+**"./practice-11 math matrix.tex"
+("practice-11 math matrix.tex"
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03>
 (C:\Users\SST-LAB\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -84,8 +84,8 @@ dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count197
 \l__pdf_internal_box=\box49
-) ("practice 11.aux")
-\openout1 = `"practice 11.aux"'.
+) ("practice-11 math matrix.aux")
+\openout1 = `"practice-11 math matrix.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -103,19 +103,19 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
  [1
 
-{C:/Users/SST-LAB/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ("practice 11
-.aux") ) 
+{C:/Users/SST-LAB/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ("practice-11
+ math matrix.aux") ) 
 Here is how much of TeX's memory you used:
  1020 strings out of 479697
- 14753 string characters out of 2866182
- 283578 words of memory out of 3000000
+ 14885 string characters out of 2866182
+ 283602 words of memory out of 3000000
  18178 multiletter control sequences out of 15000+200000
  403884 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,6n,72p,228b,109s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr10.pfb>
-Output written on "practice 11.pdf" (1 page, 8615 bytes).
+ 65i,6n,72p,240b,109s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/SST-LAB/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr10.pfb>
+Output written on "practice-11 math matrix.pdf" (1 page, 8615 bytes).
 PDF statistics:
  10 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
